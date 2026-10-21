@@ -1,0 +1,10 @@
+2026/10/21 16:22:12 No config file used
+2026/10/21 16:22:12 Using database: /root/.filebrowser.db
+2026/10/21 16:22:12 NOTICE: File Browser is being wound down.
+2026/10/21 16:22:12 NOTICE: The project is archived on 2026-09-01, after which there will be no
+2026/10/21 16:22:12 NOTICE: further releases and no security fixes. Known unfixed issues are at
+2026/10/21 16:22:12 NOTICE: https://github.com/filebrowser/filebrowser/security/advisories
+2026/10/21 16:22:12 Listening on 127.0.0.1:8080
+2026/10/21 16:30:57 /api/renew: 401 127.0.0.1 <nil>
+2026/10/21 16:30:57 /api/renew: 401 127.0.0.1 <nil>
+2026/10/21 16:42:54 /thumb/picGo/2025/202508200950090.png: 413 127.0.0.1 image dimensions 20000x20000 exceed maximum 10000x10000: image too large for thumbnail generation
